@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Milena;
 - 👀 I’m interested in programs;
-- 🌱 I’m currently learning HTML, CSS, JavaScript, etc;
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, NextJs, etc;
 - 💞️ I’m looking to collaborate on web development.
 
 <!---
