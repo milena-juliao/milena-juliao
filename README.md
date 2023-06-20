@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Milena;
-- 👀 I’m interested in programs;
-- 🌱 I’m currently learning HTML, CSS, JavaScript, React, NextJs, etc;
-- 💞️ I’m looking to collaborate on web development.
+<h1>Hi, I’m Milena</h1>
 
 <picture>
 <source
@@ -10,9 +7,10 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milena-juliao&show_icons=true" /> -->
 </picture>
 
 <div style="display: inline_block"><br>
