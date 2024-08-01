@@ -1,5 +1,9 @@
 <h1>Hi, I’m Milena</h1>
 
+<h2>About me...</h2>
+
+<p>I'm a passionate and dynamic frontend developer with a degree in Internet Systems. I love the thrill of transforming creative ideas into interactive web experiences. There's nothing more rewarding than seeing my code evolve into a functional, beautiful application that users enjoy.</p>
+
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true&theme=radical"
