@@ -12,8 +12,8 @@ I'm a passionate and dynamic frontend developer with a degree in Internet System
   <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
   <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width=40px height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
+  <img  width=40px height=40px  src="https://skillicons.dev/icons?i=nextjs&theme=light" />
   <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
   <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
   <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -23,7 +23,7 @@ I'm a passionate and dynamic frontend developer with a degree in Internet System
 <div>
   <img width=40px height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />               
   <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
+  <img  width=40px height=40px  src="https://skillicons.dev/icons?i=express&theme=light" />
   <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />        
   <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />        
   <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />       
