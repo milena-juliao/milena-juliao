@@ -1,29 +1,52 @@
-<h1>Hi, I’m Milena</h1>
+## Hi, I’m Milena
 
-<h2>About me...</h2>
+### About me...
 
-<p>I'm a passionate and dynamic frontend developer with a degree in Internet Systems. I love the thrill of transforming creative ideas into interactive web experiences. There's nothing more rewarding than seeing my code evolve into a functional, beautiful application that users enjoy.</p>
+I'm a passionate and dynamic frontend developer with a degree in Internet Systems. I love the thrill of transforming creative ideas into interactive web experiences. There's nothing more rewarding than seeing my code evolve into a functional, beautiful application that users enjoy.
 
+##
+
+### I’m currently working hard on:
+
+<div style="background-color: white">
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> 
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img width=40px height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
+
+### I had touch with:
+<div>
+  <img width=40px height=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />               
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> 
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />        
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />        
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />       
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />        
+  <img width=40px height=40px   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />   
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+  <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</div>
+
+ ##
+ 
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: dark)"
+  width=450px
 />
 <img src="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milena-juliao&show_icons=true" /> -->
 </picture>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Milena-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Milena-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Milena-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Milena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Milena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milena-juliao&layout=compact&theme=radical&card_width=450px)](https://github.com/anuraghazra/github-readme-stats)
   
   ##
  
