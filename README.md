@@ -35,18 +35,7 @@ I'm a passionate and dynamic frontend developer with a degree in Internet System
   <img  width=40px height=40px  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
 
- ##
- 
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-  width=450px
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true" />
-</picture>
-  
-  ##
+##
  
 <div> 
   <a href="https://instagram.com/milena_juliao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
