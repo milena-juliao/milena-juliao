@@ -46,7 +46,8 @@ I'm a passionate and dynamic frontend developer with a degree in Internet System
 <img src="https://github-readme-stats.vercel.app/api?username=milena-juliao&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milena-juliao)](https://github.com/milena-juliao/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milena-juliao"/>
+<img src="https://github.com/milena-juliao/github-readme-stats"/>
   
   ##
  
